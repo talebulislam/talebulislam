@@ -4,7 +4,8 @@
 <h3 align="center">Full-Stack .NET & Angular Engineer | Cloud Specialist (Azure & AWS) | Healthcare Tech | EDI Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Enterprise+Solutions+with+.NET+%26+Angular;Driving+Cloud+Innovation+on+Azure+%26+AWS;Healthcare+Tech+with+EDI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Enterprise+Solutions+with+.NET+%26+Angular;Driving+Cloud+Innovation+on+Azure+%26+AWS;Healthcare+Tech+with+EDI" alt="Typing SVG" />
+
 </p>
 
 ---
