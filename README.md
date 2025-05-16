@@ -30,7 +30,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,ts,js,html,css,azure,aws,docker,kubernetes,git,github,mysql,postgres,redis,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,ts,js,html,css,azure,aws,docker,kubernetes,git,github,vscode,postman" />
 </p>
 
 ---
