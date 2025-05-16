@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack .NET & Angular Engineer | Cloud Specialist (Azure & AWS) | Healthcare Tech | EDI Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Enterprise+Solutions+with+.NET+%26+Angular;Driving+Cloud+Innovation+on+Azure+%26+AWS;Simplifying+Healthcare+Tech+with+EDI+Expertise" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Enterprise+Solutions+with+.NET+%26+Angular;Driving+Cloud+Innovation+on+Azure+%26+AWS;Healthcare+Tech+with+EDI" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🔭 Working on **Next-Gen Claims Management Systems**
 - 🌐 Building scalable web apps with **ASP.NET Core + Angular**
 - ☁️ Hands-on with **Azure App Services, AWS Lambda, S3, DynamoDB**
-- 🧩 Skilled in **HIPAA, EDI (837, 835), HL7**, and healthcare standards
+- 🧩 Skilled in **HIPAA, EDI (837, 835)**, and healthcare standards
 - 💡 Passionate about **clean architecture**, DDD, and automation
 - 🛠️ Always learning: **Microservices | Kubernetes | DevOps CI/CD**
 
@@ -57,7 +57,7 @@
 ### 🧠 Featured Projects
 
 - 💼 **Claims Automation Engine** – Custom rules engine for claim lifecycle workflows in .NET
-- 🧾 **EDI Translator** – Real-time 837/835 to FHIR mapping microservice using Azure Functions
+- 🧾 **EDI Translator** – Real-time 837/835 to FHIR mapping microservice using T-SQL & .NET
 - 🔍 **Next Action Predictor** – Angular UI for predicting next business step using case metadata
 
 ---
