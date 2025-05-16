@@ -1,5 +1,13 @@
+<!-- GitHub Profile README for Talebul Islam -->
+
 <h1 align="center">Hi 👋, I'm Talebul Islam</h1>
-<h3 align="center">A Passionate Full-Stack .NET and Angular Developer | Cloud Enthusiast | Healthcare Tech Expert</h3>
+<h3 align="center">Full-Stack .NET & Angular Engineer | Cloud Specialist (Azure & AWS) | Healthcare Tech | EDI Expert</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Enterprise+Solutions+with+.NET+%26+Angular;Driving+Cloud+Innovation+on+Azure+%26+AWS;Simplifying+Healthcare+Tech+with+EDI+Expertise" alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TalebulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="TalebulIslam" />
@@ -7,49 +15,68 @@
 
 ---
 
-🔭 I’m currently working on **Claims Management Automation**
+### 🚀 About Me
 
-🌱 I’m currently learning **Microservices, Kubernetes, and AI integrations**
-
-💬 Ask me about **.NET, Angular, Azure, AWS, and EDI Integrations**
-
-📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-link)**
-
-📄 Know about my experiences: [Resume](https://your-resume-link.com)
-
-⚡ Fun fact: I’m a productivity and clean-code enthusiast.
+- 🔭 Working on **Next-Gen Claims Management Systems**
+- 🌐 Building scalable web apps with **ASP.NET Core + Angular**
+- ☁️ Hands-on with **Azure App Services, AWS Lambda, S3, DynamoDB**
+- 🧩 Skilled in **HIPAA, EDI (837, 835), HL7**, and healthcare standards
+- 💡 Passionate about **clean architecture**, DDD, and automation
+- 🛠️ Always learning: **Microservices | Kubernetes | DevOps CI/CD**
 
 ---
 
-### 🛠️ Tech Stack
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalebulIslam&show_icons=true&theme=tokyonight" alt="TalebulIslam stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalebulIslam&theme=tokyonight" alt="TalebulIslam streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalebulIslam&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,ts,js,html,css,azure,aws,docker,kubernetes,git,github,mysql,postgres,redis,linux,vscode,postman" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<div align="center">
+
+<a href="https://github.com/TalebulIslam">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TalebulIslam&show_icons=true&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/TalebulIslam">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TalebulIslam&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalebulIslam&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+### 🧠 Featured Projects
+
+- 💼 **Claims Automation Engine** – Custom rules engine for claim lifecycle workflows in .NET
+- 🧾 **EDI Translator** – Real-time 837/835 to FHIR mapping microservice using Azure Functions
+- 🔍 **Next Action Predictor** – Angular UI for predicting next business step using case metadata
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
