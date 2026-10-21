@@ -1,83 +1,50 @@
-<!-- GitHub Profile README for Talebul Islam -->
+<h1 align="center">Hi, I'm Talebul Islam 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Talebul Islam</h1>
-<h3 align="center">Full-Stack .NET & Angular Engineer | Cloud Specialist (Azure & AWS) | Healthcare Tech | EDI</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Enterprise+Solutions+with+.NET+%26+Angular;Driving+Cloud+Innovation+on+Azure+%26+AWS;Healthcare+Tech+with+EDI" alt="Typing SVG" />
-
-</p>
-
----
+<h3 align="center">Senior Software Engineer · C# / .NET · Angular · React · Cloud</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TalebulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="TalebulIslam" />
+  <a href="https://talebulislam.github.io/">Portfolio</a> ·
+  <a href="https://github.com/talebulislam">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/talebulislam">LinkedIn</a> ·
+  <a href="mailto:talebullislam852218@gmail.com">Email</a>
 </p>
-
----
-
-### 🚀 About Me
-
-- 🔭 Working on **Next-Gen Claims Management Systems**
-- 🌐 Building scalable web apps with **ASP.NET Core + Angular**
-- ☁️ Hands-on with **Azure App Services, AWS Lambda, S3, DynamoDB**
-- 🧩 Skilled in **HIPAA, EDI (837, 835)**, and healthcare standards
-- 💡 Passionate about **clean architecture**, DDD, and automation
-- 🛠️ Always learning: **Microservices | Kubernetes | DevOps CI/CD**
-
----
-
-### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,ts,js,html,css,azure,aws,docker,kubernetes,git,github,vscode,postman" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1400&center=true&vCenter=true&width=680&lines=Building+scalable+full-stack+applications;Designing+REST+APIs+and+reliable+backend+services;Cloud+delivery+with+Azure%2C+AWS%2C+and+GCP" alt="Software engineering focus" />
 </p>
 
----
+About Me
+I'm a full-stack software engineer focused on building maintainable, scalable web applications. My work spans backend services, APIs, frontend development, data access, cloud deployment, and reliable software delivery.
+- Backend: C#, ASP.NET Core, .NET, Node.js, RESTful APIs
+- Frontend: Angular, React, TypeScript, JavaScript, HTML, CSS
+- Data: SQL Server, Entity Framework Core, query and data-access optimization
+- Cloud & delivery: Azure, AWS, GCP, Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD
+- Engineering practices: Clean code, modular design, debugging, code reviews, Agile, and SDLC
+Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,nodejs,ts,js,html,css,azure,aws,gcp,docker,kubernetes,git,github,githubactions,vscode,postman" alt="Technologies: C#, .NET, Angular, React, Node.js, TypeScript, JavaScript, HTML, CSS, Azure, AWS, GCP, Docker, Kubernetes, Git, GitHub Actions, VS Code, and Postman" />
+</p>
 
-### 📈 GitHub Stats
+Selected Projects
+Personal Portfolio
+A responsive portfolio built with HTML, CSS, and JavaScript. It presents my experience, skills, certifications, selected work, and contact details, with accessible navigation and reduced-motion support.
 
-<div align="center">
-
-<a href="https://github.com/TalebulIslam">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TalebulIslam&show_icons=true&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/TalebulIslam">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TalebulIslam&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalebulIslam&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-### 🧠 Featured Projects
-
-- 💼 **Claims Automation Engine** – Custom rules engine for claim lifecycle workflows in .NET
-- 🧾 **EDI Translator** – Real-time 837/835 to FHIR mapping microservice using T-SQL & .NET
-- 🔍 **Next Action Predictor** – Angular UI for predicting next business step using case metadata
-
----
-
-### 🌍 Connect with Me
+Source: talebulislam.github.io
+PharmacyApp
+An ASP.NET Core application targeting .NET 8, organized into controller, data, and model areas. This project demonstrates a structured .NET application layout.
+Cloud Architecture Capstone
+A cloud-architecture learning capstone, described in my portfolio as a web application deployed to a public cloud with load balancing. The repository contains the capstone project archive.
+GitHub Activity
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=talebulislam&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talebulislam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talebulislam&layout=compact&hide_border=true&theme=transparent" alt="Most used languages in public repositories" />
 </p>
 
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+Connect
+- Portfolio: https://talebulislam.github.io/
+- LinkedIn: https://www.linkedin.com/in/talebulislam
+- Email: talebullislam852218@gmail.com
