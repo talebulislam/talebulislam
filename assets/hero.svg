@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Talebul Islam — Software Engineer</title>
+<desc id="desc">Futuristic, dark neon banner showing a software engineer focused on .NET, Angular, React, and cloud technologies.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060a16"/><stop offset=".53" stop-color="#10142d"/><stop offset="1" stop-color="#211037"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".48" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="orb"><stop offset="0" stop-color="#7c3aed" stop-opacity=".34"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#627197" stroke-opacity=".18" stroke-width="1"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+<ellipse cx="1000" cy="130" rx="360" ry="260" fill="url(#orb)"/>
+<path d="M730 0 L1200 0 L1200 320 L960 320 Z" fill="#6d28d9" opacity=".07"/>
+<path d="M0 24 H300" stroke="url(#neon)" stroke-width="4" stroke-linecap="round"/>
+<path d="M745 40 H1060 L1120 100 V235 L1060 280 H880" fill="none" stroke="#22d3ee" stroke-opacity=".35" stroke-width="1.5"/>
+<path d="M790 60 H1030 L1090 120 V215 L1035 260 H900" fill="none" stroke="#a78bfa" stroke-opacity=".26" stroke-width="1.5"/>
+<circle cx="982" cy="162" r="104" fill="none" stroke="url(#neon)" stroke-opacity=".75" stroke-width="1.5"/>
+<circle cx="982" cy="162" r="78" fill="none" stroke="#a78bfa" stroke-opacity=".48" stroke-dasharray="6 8" stroke-width="1.5"/>
+<circle cx="982" cy="162" r="53" fill="#0a1023" stroke="#22d3ee" stroke-opacity=".6" stroke-width="1.5"/>
+<path d="M966 143 L945 162 L966 181 M998 143 L1019 162 L998 181 M989 136 L975 188" fill="none" stroke="url(#neon)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="982" cy="58" r="4" fill="#22d3ee"/><circle cx="1086" cy="162" r="4" fill="#f472b6"/><circle cx="878" cy="162" r="4" fill="#818cf8"/>
+<text x="52" y="62" fill="#67e8f9" font-family="Consolas,monospace" font-size="13" font-weight="700" letter-spacing="4">SOFTWARE ENGINEERING / SYSTEMS THINKING</text>
+<text x="50" y="132" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" letter-spacing=".3">TALEBUL ISLAM</text>
+<rect x="52" y="151" width="82" height="4" rx="2" fill="url(#neon)"/>
+<text x="52" y="188" fill="#cad5ec" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Full-Stack Software Engineer</text>
+<text x="52" y="222" fill="#91a3c7" font-family="Consolas,monospace" font-size="15">C# / .NET  ·  Angular  ·  React  ·  Cloud</text>
+<text x="52" y="278" fill="#7b8cac" font-family="Consolas,monospace" font-size="11" letter-spacing="2">BUILD  //  SHIP  //  SCALE</text>
+<path d="M52 294 H650" stroke="#3d4969" stroke-width="1"/>
+<path d="M52 294 H220" stroke="url(#neon)" stroke-width="2"/>
+</svg>

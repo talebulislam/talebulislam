@@ -11,45 +11,55 @@
   <img src="https://img.shields.io/badge/CLOUD-AZURE%20%7C%20AWS%20%7C%20GCP-111827?style=flat-square&labelColor=111827&color=7c3aed" alt="Cloud platforms" />
 </div>
 
-01 / Profile Brief
+## `01` / Profile Brief
+
 I build maintainable web applications, backend services, and API-driven products, with a focus on practical engineering, clean architecture, and reliable delivery.
-Domain	Focus
-Backend engineering	C#, .NET / ASP.NET Core, REST APIs, Node.js
-Frontend engineering	Angular, React, TypeScript, JavaScript, HTML, CSS
-Data	SQL Server, Entity Framework Core, data access
-Cloud & delivery	Azure, AWS, GCP, Docker, Kubernetes, CI/CD
-Engineering	Modular design, debugging, code reviews, Agile, SDLC
 
+| Domain | Focus |
+|---|---|
+| **Backend engineering** | C#, .NET / ASP.NET Core, REST APIs, Node.js |
+| **Frontend engineering** | Angular, React, TypeScript, JavaScript, HTML, CSS |
+| **Data** | SQL Server, Entity Framework Core, data access |
+| **Cloud & delivery** | Azure, AWS, GCP, Docker, Kubernetes, CI/CD |
+| **Engineering** | Modular design, debugging, code reviews, Agile, SDLC |
 
-02 / Live GitHub Telemetry
-The cards below are generated inside this repository by GitHub Actions, rather than relying on third-party stats-card hosting. The workflow refreshes them every six hours and when the profile README or metrics workflow changes.
+## `02` / Live GitHub Telemetry
+
+The cards below are **generated inside this repository** by GitHub Actions, rather than relying on third-party stats-card hosting. The workflow refreshes them every six hours and when the profile README or metrics workflow changes.
+
 <div align="center">
   <img src="./assets/github-dashboard.svg" width="100%" alt="Auto-generated GitHub dashboard showing public repositories, followers, public stars, contributions from the last 365 days, repository primary languages, and last sync time" />
   <br />
   <img src="./assets/contribution-heatmap.svg" width="100%" alt="Auto-generated GitHub contribution heatmap covering the last 365 days" />
 </div>
 
-Data note: GitHub Actions is scheduled, not second-by-second live. The dashboard is refreshed every six hours; GitHub may also take time to process or expose contribution activity. To refresh manually, open Actions → Refresh GitHub Profile Metrics → Run workflow in this repository.
+> **Data note:** GitHub Actions is scheduled, not second-by-second live. The dashboard is refreshed every six hours; GitHub may also take time to process or expose contribution activity. To refresh manually, open **Actions → Refresh GitHub Profile Metrics → Run workflow** in this repository.
 
-03 / Technology Matrix
+## `03` / Technology Matrix
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,nodejs,ts,js,html,css,azure,aws,gcp,docker,kubernetes,git,github,githubactions,vscode,postman&perline=10" alt="C sharp, .NET, Angular, React, Node.js, TypeScript, JavaScript, HTML, CSS, Azure, AWS, Google Cloud, Docker, Kubernetes, Git, GitHub, GitHub Actions, Visual Studio Code and Postman" />
 </p>
 
-04 / Selected Work
-Personal Portfolio
+## `04` / Selected Work
+
+### [Personal Portfolio](https://talebulislam.github.io/)
 A responsive portfolio showcasing experience, technical skills, certifications, selected work, and contact details.
 
-HTML CSS JavaScript · Source code
-PharmacyApp
+`HTML` `CSS` `JavaScript` · [Source code](https://github.com/talebulislam/talebulislam.github.io)
+
+### [PharmacyApp](https://github.com/talebulislam/PharmacyApp)
 An ASP.NET Core application targeting .NET 8, with a structured controller, data, and model layout.
 
-C# ASP.NET Core .NET 8
-Cloud Architecture Capstone
+`C#` `ASP.NET Core` `.NET 8`
+
+### [Cloud Architecture Capstone](https://github.com/talebulislam/capstonesimplilearn)
 A cloud-architecture learning capstone covering deployment concepts and load balancing.
 
-Cloud architecture Deployment Load balancing
-05 / Connect
+`Cloud architecture` `Deployment` `Load balancing`
+
+## `05` / Connect
+
 <p align="center">
   <a href="https://talebulislam.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/talebulislam">LinkedIn</a> ·

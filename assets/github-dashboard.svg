@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">GitHub metrics dashboard for talebulislam</title>
+<desc id="desc">Public repository count, followers, stars, yearly GitHub contributions and primary repository languages.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d1c"/><stop offset="0.55" stop-color="#10162d"/><stop offset="1" stop-color="#15102d"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#161e38"/><stop offset="1" stop-color="#0c1226"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#405078" stroke-opacity=".22" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="500" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="500" rx="24" fill="url(#grid)"/>
+<circle cx="1110" cy="25" r="150" fill="#7c3aed" opacity=".12"/>
+<circle cx="1100" cy="30" r="100" fill="none" stroke="#8b5cf6" stroke-opacity=".26"/>
+<path d="M30 4 H360" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" filter="url(#glow)"/>
+<text x="38" y="43" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3">DEVELOPER INTELLIGENCE / 01</text>
+<text x="38" y="79" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="800" letter-spacing=".5">GITHUB COMMAND CENTER</text>
+<text x="40" y="103" fill="#9baac7" font-family="Segoe UI,Arial,sans-serif" font-size="14">PUBLIC PROFILE SIGNALS · @talebulislam</text>
+<rect x="865" y="39" width="295" height="38" rx="19" fill="#0b1f2b" stroke="#22d3ee" stroke-opacity=".6"/>
+<circle cx="887" cy="58" r="5" fill="#f59e0b"/>
+<text x="902" y="63" fill="#d1fae5" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">SYNC PENDING</text>
+<text x="38" y="141" fill="#7284a8" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">PROFILE SNAPSHOT</text>
+
+<rect x="38" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#22d3ee" stroke-opacity=".48"/>
+<rect x="38" y="158" width="260" height="3" rx="1.5" fill="#22d3ee"/>
+<text x="56" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">PUBLIC REPOSITORIES</text>
+<text x="56" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">—</text>
+<text x="268" y="244" text-anchor="end" fill="#22d3ee" font-family="Consolas,monospace" font-size="11">01 / 04</text>
+
+<rect x="326" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#a78bfa" stroke-opacity=".48"/>
+<rect x="326" y="158" width="260" height="3" rx="1.5" fill="#a78bfa"/>
+<text x="344" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">FOLLOWERS</text>
+<text x="344" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">—</text>
+<text x="556" y="244" text-anchor="end" fill="#a78bfa" font-family="Consolas,monospace" font-size="11">02 / 04</text>
+
+<rect x="614" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#f472b6" stroke-opacity=".48"/>
+<rect x="614" y="158" width="260" height="3" rx="1.5" fill="#f472b6"/>
+<text x="632" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">PUBLIC STARS</text>
+<text x="632" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">—</text>
+<text x="844" y="244" text-anchor="end" fill="#f472b6" font-family="Consolas,monospace" font-size="11">03 / 04</text>
+
+<rect x="902" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#34d399" stroke-opacity=".48"/>
+<rect x="902" y="158" width="260" height="3" rx="1.5" fill="#34d399"/>
+<text x="920" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">CONTRIBUTIONS · 365D</text>
+<text x="920" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">—</text>
+<text x="1132" y="244" text-anchor="end" fill="#34d399" font-family="Consolas,monospace" font-size="11">04 / 04</text>
+
+<rect x="38" y="287" width="690" height="176" rx="16" fill="#0b1124" stroke="#354466" stroke-opacity=".8"/>
+<text x="58" y="315" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1">PRIMARY LANGUAGE FOOTPRINT</text>
+<text x="58" y="335" fill="#7e91b4" font-family="Segoe UI,Arial,sans-serif" font-size="11">Public repositories · grouped by primary language</text>
+
+<text x="58" y="382" fill="#9baac7" font-family="Segoe UI,Arial,sans-serif" font-size="13">Language data will appear after the first successful sync.</text>
+<text x="58" y="405" fill="#64748b" font-family="Consolas,monospace" font-size="11">WORKFLOW → ACTIONS → REFRESH GITHUB PROFILE METRICS</text>
+
+<rect x="750" y="287" width="410" height="176" rx="16" fill="#0b1124" stroke="#354466" stroke-opacity=".8"/>
+<text x="772" y="315" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1">SYNC TELEMETRY</text>
+<circle cx="779" cy="345" r="3" fill="#22d3ee"/><text x="792" y="349" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">DATA SOURCE</text><text x="1138" y="349" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">GitHub GraphQL</text>
+<circle cx="779" cy="374" r="3" fill="#a78bfa"/><text x="792" y="378" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">CONTRIBUTION WINDOW</text><text x="1138" y="378" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">365 days</text>
+<circle cx="779" cy="403" r="3" fill="#34d399"/><text x="792" y="407" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">REFRESH CADENCE</text><text x="1138" y="407" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">Every 6 hours</text>
+<path d="M772 428 H1138" stroke="#354466" stroke-width="1"/>
+<text x="772" y="447" fill="#7284a8" font-family="Consolas,monospace" font-size="10">LAST SYNC  ·  AWAITING FIRST WORKFLOW RUN</text>
+<text x="38" y="485" fill="#657694" font-family="Consolas,monospace" font-size="10">TALIBUL ISLAM  /  BUILD • SHIP • SCALE</text>
+<text x="1160" y="485" text-anchor="end" fill="#657694" font-family="Consolas,monospace" font-size="10">AUTO-GENERATED PROFILE METRICS</text>
+</svg>
