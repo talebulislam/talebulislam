@@ -17,40 +17,52 @@
 <text x="38" y="79" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="800" letter-spacing=".5">GITHUB COMMAND CENTER</text>
 <text x="40" y="103" fill="#9baac7" font-family="Segoe UI,Arial,sans-serif" font-size="14">PUBLIC PROFILE SIGNALS · @talebulislam</text>
 <rect x="865" y="39" width="295" height="38" rx="19" fill="#0b1f2b" stroke="#22d3ee" stroke-opacity=".6"/>
-<circle cx="887" cy="58" r="5" fill="#f59e0b"/>
-<text x="902" y="63" fill="#d1fae5" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">SYNC PENDING</text>
+<circle cx="887" cy="58" r="5" fill="#34d399"/>
+<text x="902" y="63" fill="#d1fae5" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">METRICS SYNCED</text>
 <text x="38" y="141" fill="#7284a8" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">PROFILE SNAPSHOT</text>
 
 <rect x="38" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#22d3ee" stroke-opacity=".48"/>
 <rect x="38" y="158" width="260" height="3" rx="1.5" fill="#22d3ee"/>
 <text x="56" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">PUBLIC REPOSITORIES</text>
-<text x="56" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">—</text>
+<text x="56" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">5</text>
 <text x="268" y="244" text-anchor="end" fill="#22d3ee" font-family="Consolas,monospace" font-size="11">01 / 04</text>
 
 <rect x="326" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#a78bfa" stroke-opacity=".48"/>
 <rect x="326" y="158" width="260" height="3" rx="1.5" fill="#a78bfa"/>
 <text x="344" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">FOLLOWERS</text>
-<text x="344" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">—</text>
+<text x="344" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">0</text>
 <text x="556" y="244" text-anchor="end" fill="#a78bfa" font-family="Consolas,monospace" font-size="11">02 / 04</text>
 
 <rect x="614" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#f472b6" stroke-opacity=".48"/>
 <rect x="614" y="158" width="260" height="3" rx="1.5" fill="#f472b6"/>
 <text x="632" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">PUBLIC STARS</text>
-<text x="632" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">—</text>
+<text x="632" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">1</text>
 <text x="844" y="244" text-anchor="end" fill="#f472b6" font-family="Consolas,monospace" font-size="11">03 / 04</text>
 
 <rect x="902" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#34d399" stroke-opacity=".48"/>
 <rect x="902" y="158" width="260" height="3" rx="1.5" fill="#34d399"/>
 <text x="920" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">CONTRIBUTIONS · 365D</text>
-<text x="920" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">—</text>
+<text x="920" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">19</text>
 <text x="1132" y="244" text-anchor="end" fill="#34d399" font-family="Consolas,monospace" font-size="11">04 / 04</text>
 
 <rect x="38" y="287" width="690" height="176" rx="16" fill="#0b1124" stroke="#354466" stroke-opacity=".8"/>
 <text x="58" y="315" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1">PRIMARY LANGUAGE FOOTPRINT</text>
 <text x="58" y="335" fill="#7e91b4" font-family="Segoe UI,Arial,sans-serif" font-size="11">Public repositories · grouped by primary language</text>
 
-<text x="58" y="382" fill="#9baac7" font-family="Segoe UI,Arial,sans-serif" font-size="13">Language data will appear after the first successful sync.</text>
-<text x="58" y="405" fill="#64748b" font-family="Consolas,monospace" font-size="11">WORKFLOW → ACTIONS → REFRESH GITHUB PROFILE METRICS</text>
+<text x="58" y="368" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="11">CSS</text>
+<rect x="190" y="357" width="410" height="10" rx="5" fill="#1b2945"/>
+<rect x="190" y="357" width="390" height="10" rx="5" fill="#663399"/>
+<text x="616" y="367" text-anchor="end" fill="#94a3b8" font-family="Consolas,monospace" font-size="11">2 repos</text>
+
+<text x="58" y="387" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="11">Python</text>
+<rect x="190" y="376" width="410" height="10" rx="5" fill="#1b2945"/>
+<rect x="190" y="376" width="195" height="10" rx="5" fill="#3572A5"/>
+<text x="616" y="386" text-anchor="end" fill="#94a3b8" font-family="Consolas,monospace" font-size="11">1 repos</text>
+
+<text x="58" y="406" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="11">HTML</text>
+<rect x="190" y="395" width="410" height="10" rx="5" fill="#1b2945"/>
+<rect x="190" y="395" width="195" height="10" rx="5" fill="#e34c26"/>
+<text x="616" y="405" text-anchor="end" fill="#94a3b8" font-family="Consolas,monospace" font-size="11">1 repos</text>
 
 <rect x="750" y="287" width="410" height="176" rx="16" fill="#0b1124" stroke="#354466" stroke-opacity=".8"/>
 <text x="772" y="315" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1">SYNC TELEMETRY</text>
@@ -58,7 +70,7 @@
 <circle cx="779" cy="374" r="3" fill="#a78bfa"/><text x="792" y="378" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">CONTRIBUTION WINDOW</text><text x="1138" y="378" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">365 days</text>
 <circle cx="779" cy="403" r="3" fill="#34d399"/><text x="792" y="407" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">REFRESH CADENCE</text><text x="1138" y="407" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">Every 6 hours</text>
 <path d="M772 428 H1138" stroke="#354466" stroke-width="1"/>
-<text x="772" y="447" fill="#7284a8" font-family="Consolas,monospace" font-size="10">LAST SYNC  ·  AWAITING FIRST WORKFLOW RUN</text>
+<text x="772" y="447" fill="#7284a8" font-family="Consolas,monospace" font-size="10">LAST SYNC  ·  2026-10-21 07:42 UTC</text>
 <text x="38" y="485" fill="#657694" font-family="Consolas,monospace" font-size="10">TALIBUL ISLAM  /  BUILD • SHIP • SCALE</text>
 <text x="1160" y="485" text-anchor="end" fill="#657694" font-family="Consolas,monospace" font-size="10">AUTO-GENERATED PROFILE METRICS</text>
 </svg>
