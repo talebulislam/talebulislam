@@ -42,7 +42,7 @@
 <rect x="902" y="158" width="260" height="106" rx="15" fill="url(#card)" stroke="#34d399" stroke-opacity=".48"/>
 <rect x="902" y="158" width="260" height="3" rx="1.5" fill="#34d399"/>
 <text x="920" y="184" fill="#93a4c5" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">CONTRIBUTIONS · 365D</text>
-<text x="920" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">19</text>
+<text x="920" y="229" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">21</text>
 <text x="1132" y="244" text-anchor="end" fill="#34d399" font-family="Consolas,monospace" font-size="11">04 / 04</text>
 
 <rect x="38" y="287" width="690" height="176" rx="16" fill="#0b1124" stroke="#354466" stroke-opacity=".8"/>
@@ -70,7 +70,7 @@
 <circle cx="779" cy="374" r="3" fill="#a78bfa"/><text x="792" y="378" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">CONTRIBUTION WINDOW</text><text x="1138" y="378" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">365 days</text>
 <circle cx="779" cy="403" r="3" fill="#34d399"/><text x="792" y="407" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">REFRESH CADENCE</text><text x="1138" y="407" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">Every 6 hours</text>
 <path d="M772 428 H1138" stroke="#354466" stroke-width="1"/>
-<text x="772" y="447" fill="#7284a8" font-family="Consolas,monospace" font-size="10">LAST SYNC  ·  2026-10-21 07:42 UTC</text>
+<text x="772" y="447" fill="#7284a8" font-family="Consolas,monospace" font-size="10">LAST SYNC  ·  2026-10-21 07:47 UTC</text>
 <text x="38" y="485" fill="#657694" font-family="Consolas,monospace" font-size="10">TALIBUL ISLAM  /  BUILD • SHIP • SCALE</text>
 <text x="1160" y="485" text-anchor="end" fill="#657694" font-family="Consolas,monospace" font-size="10">AUTO-GENERATED PROFILE METRICS</text>
 </svg>
