@@ -70,7 +70,7 @@
 <circle cx="779" cy="374" r="3" fill="#a78bfa"/><text x="792" y="378" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">CONTRIBUTION WINDOW</text><text x="1138" y="378" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">365 days</text>
 <circle cx="779" cy="403" r="3" fill="#34d399"/><text x="792" y="407" fill="#9fb0ce" font-family="Segoe UI,Arial,sans-serif" font-size="12">REFRESH CADENCE</text><text x="1138" y="407" text-anchor="end" fill="#e2e8f0" font-family="Consolas,monospace" font-size="11">Every 6 hours</text>
 <path d="M772 428 H1138" stroke="#354466" stroke-width="1"/>
-<text x="772" y="447" fill="#7284a8" font-family="Consolas,monospace" font-size="10">LAST SYNC  ·  2026-10-27 05:04 UTC</text>
+<text x="772" y="447" fill="#7284a8" font-family="Consolas,monospace" font-size="10">LAST SYNC  ·  2026-10-27 12:11 UTC</text>
 <text x="38" y="485" fill="#657694" font-family="Consolas,monospace" font-size="10">TALIBUL ISLAM  /  BUILD • SHIP • SCALE</text>
 <text x="1160" y="485" text-anchor="end" fill="#657694" font-family="Consolas,monospace" font-size="10">AUTO-GENERATED PROFILE METRICS</text>
 </svg>
