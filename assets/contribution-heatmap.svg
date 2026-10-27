@@ -5,12 +5,11 @@
 <rect width="1200" height="218" rx="20" fill="url(#bg)"/><rect width="1200" height="218" rx="20" fill="url(#grid)"/>
 <text x="30" y="35" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">CONTRIBUTION MATRIX / 365 DAYS</text>
 <text x="30" y="61" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">21 <tspan fill="#9baac7" font-size="12" font-weight="400">total contributions</tspan></text>
-<text x="1166" y="39" text-anchor="end" fill="#8192b2" font-family="Consolas,monospace" font-size="10">2025-10-27 → 2026-10-26</text>
+<text x="1166" y="39" text-anchor="end" fill="#8192b2" font-family="Consolas,monospace" font-size="10">2025-10-28 → 2026-10-27</text>
 
 <text x="27" y="110" fill="#7184a7" font-family="Segoe UI,Arial,sans-serif" font-size="10">Mon</text>
 <text x="27" y="144" fill="#7184a7" font-family="Segoe UI,Arial,sans-serif" font-size="10">Wed</text>
 <text x="27" y="178" fill="#7184a7" font-family="Segoe UI,Arial,sans-serif" font-size="10">Fri</text>
-<rect x="80" y="100" width="13" height="13" rx="3" fill="#17213a" stroke="#94a3b8" stroke-opacity=".10"><title>2025-10-27: 0 contributions</title></rect>
 <rect x="80" y="117" width="13" height="13" rx="3" fill="#17213a" stroke="#94a3b8" stroke-opacity=".10"><title>2025-10-28: 0 contributions</title></rect>
 <rect x="80" y="134" width="13" height="13" rx="3" fill="#17213a" stroke="#94a3b8" stroke-opacity=".10"><title>2025-10-29: 0 contributions</title></rect>
 <rect x="80" y="151" width="13" height="13" rx="3" fill="#17213a" stroke="#94a3b8" stroke-opacity=".10"><title>2025-10-30: 0 contributions</title></rect>
@@ -375,6 +374,7 @@
 <rect x="947" y="185" width="13" height="13" rx="3" fill="#17213a" stroke="#94a3b8" stroke-opacity=".10"><title>2026-10-24: 0 contributions</title></rect>
 <rect x="964" y="83" width="13" height="13" rx="3" fill="#17213a" stroke="#94a3b8" stroke-opacity=".10"><title>2026-10-25: 0 contributions</title></rect>
 <rect x="964" y="100" width="13" height="13" rx="3" fill="#17213a" stroke="#94a3b8" stroke-opacity=".10"><title>2026-10-26: 0 contributions</title></rect>
+<rect x="964" y="117" width="13" height="13" rx="3" fill="#17213a" stroke="#94a3b8" stroke-opacity=".10"><title>2026-10-27: 0 contributions</title></rect>
 <text x="80" y="77" fill="#7184a7" font-family="Segoe UI,Arial,sans-serif" font-size="10">Oct</text>
 <text x="80" y="77" fill="#7184a7" font-family="Segoe UI,Arial,sans-serif" font-size="10">Nov</text>
 <text x="165" y="77" fill="#7184a7" font-family="Segoe UI,Arial,sans-serif" font-size="10">Dec</text>
